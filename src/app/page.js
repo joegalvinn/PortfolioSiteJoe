@@ -4,7 +4,7 @@ import Body from "@/components/Body";
 import Navbar from "@/components/NavBar";
 
 const texts = [
-  { text: "Go to Section 1", link: "#section-0" },
+  { text: "TrackStar", link: "#section-0" },
   { text: "Visit Section 2", link: "#section-1" },
   { text: "Explore Section 3", link: "#section-2" },
 ];

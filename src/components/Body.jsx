@@ -11,12 +11,14 @@ import Link from "next/link";
 const backgroundImages = ["/image-1.jpg", "/image-2.jpg", "/image-3.jpg"];
 const images = ["/image-4.png", "/image-5.jpg", "/image-6.jpg"];
 const texts = [
-  { text: "Go to Section 1", link: "/section-1" },
+  { text: "Project Overview", link: "/TrackStar" },
   { text: "Visit Section 2", link: "/section-2" },
   { text: "Explore Section 3", link: "/section-3" },
 ];
 const bodyTexts = [
-  { text: "This is section 1 right up in here." },
+  {
+    text: "TrackStar is a gym tracker that makes it easier to count and remember your sets, reps and weight. Allowing you to look back at previous workouts and help you stay motivated.",
+  },
   { text: "This is section 2 right up in here." },
   { text: "This is section 3 right up in here." },
 ];
